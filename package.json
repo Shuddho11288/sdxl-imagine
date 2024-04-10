@@ -1,0 +1,23 @@
+{
+  "name": "@shuddho11288/sdxl-imagine",
+  "version": "1.0.0",
+  "description": "A Node.js library for interacting with the Stable Diffusion XL API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shuddho11288/sdxl-imagine.git"
+  },
+  "keywords": [
+    "sdxl-imagine",
+    "api",
+    "image-generation",
+  ],
+  "author": "Tasawar Ahmed Shuddho",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
