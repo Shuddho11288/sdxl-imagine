@@ -21,7 +21,7 @@ Follow these steps to use the Imagine API:
 Here's an example code snippet:
 
 ```javascript
-const { imagine } = require('@shuddho11288/imagine-api');
+const { imagine } = require('@shuddho11288/sdxl-imagine');
 
 // Example usage
 imagine('among us impostor but in good mood!').then(data=>{
